@@ -3,7 +3,7 @@
 
 
 - 🔭 I'm currently working on a <i>personal project</i>
-- 💻 I'm currently learning <i>Android</i>
+- 💻 I'm currently learning <i>Android(kotlin). iOS(swift), Ktor</i>
 - 💜 Interests: <i>outdoor activities, chess, nature, music</i>
 - ⚡Fun fact: I ❤ 🐢
 <br>
