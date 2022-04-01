@@ -3,10 +3,12 @@
 
 
 - 🔭 I'm currently working on a <i>personal project</i>
-- 💻 I'm currently learning <i>Android(kotlin). iOS(swift), Ktor</i>
+- 💻 I'm currently learning <i>Android(kotlin), iOS(swift), Ktor</i>
 - 💜 Interests: <i>outdoor activities, chess, nature, music</i>
 - ⚡Fun fact: I ❤ 🐢
 <br>
+
+![](https://komarev.com/ghpvc/?username=K-Terelak&color=blueviolet)
 
 ## 🧪 Languages and Tools
 <img align="left" width="26px" src="https://user-images.githubusercontent.com/78376240/132018964-baae4fe7-2fc1-46af-a889-ea75c3f424cf.png">
